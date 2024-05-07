@@ -81,6 +81,7 @@ style="font-size: 24px; font-weight: bold" align="center">
 ###
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://mail.google.com/mail" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="mailsohailfiza@gmail.com" height="45" width="60" /></a>
 <a href="https://linkedin.com/in/sohailfiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="sohailfiza" height="45" width="60" /></a>
