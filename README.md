@@ -1,16 +1,19 @@
 <div align="center">
   <img height="200" src="https://i.postimg.cc/tCQGs93k/github-banner-1.png"  />
   <br>
-  <br>
 </div>
 
 ###
 
-<h2 align="center">Hi 👋! I'm Md Sohail Fiza</h2>
-
-###
+<div 
+style="font-size: 24px; font-weight: bold" align="center">
+👋 Hi, I'm Md Sohail Fiza
+</div>
 
 <h3 align="left">A passionate Full Stack developer and Computer Science enthusiast from Bihar, India</h3>
+<h2></h2>
+
+###
 
 <div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px"></div>
 <br>
@@ -21,7 +24,9 @@
 
 - 📫 Reach me at **mailsohailfiza@gmail.com**
 
-<!-- - 📄 My Resume is available to [Download](https://) -->
+- <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/leetcode-icon.png" width="18" height="18" style="background: white; border-radius: 5px"> My Leetcode [account](https://leetcode.com/u/sohailfiza/)
+
+- 📄 My [Resume](https://drive.google.com/file/d/1N52d1X51PFAWcxbwdcm4mATx0Sh20JH7/view?usp=sharing)
 
 <br>
 
@@ -80,8 +85,8 @@
 <a href="https://mail.google.com/mail" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="mailsohailfiza@gmail.com" height="45" width="60" /></a>
 <a href="https://linkedin.com/in/sohailfiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="sohailfiza" height="45" width="60" /></a>
 <!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="sohailfiza" height="45" width="60" /></a> -->
-<a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="sohailfiza" height="45" width="60" /></a>
-<a href="https://www.leetcode.com/sohailfiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohailfiza" height="45" width="60" /></a>
+<!-- <a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="sohailfiza" height="45" width="60" /></a> -->
+<!-- <a href="https://www.leetcode.com/sohailfiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohailfiza" height="45" width="60" /></a> -->
 </p>
 
 
