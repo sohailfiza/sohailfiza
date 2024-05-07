@@ -24,7 +24,7 @@ style="font-size: 24px; font-weight: bold" align="center">
 
 - 📫 Reach me at **mailsohailfiza@gmail.com**
 
-- <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/leetcode-icon.png" width="18" height="18" style="background: white; border-radius: 5px"> My Leetcode [account](https://leetcode.com/u/sohailfiza/)
+- <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/leetcode-icon.png" width="18" height="18" style="background: white; border-radius: 5px; pointer-events: none;"> My Leetcode [account](https://leetcode.com/u/sohailfiza/)
 
 - 📄 My [Resume](https://drive.google.com/file/d/1N52d1X51PFAWcxbwdcm4mATx0Sh20JH7/view?usp=sharing)
 
