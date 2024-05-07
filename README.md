@@ -3,17 +3,17 @@
   <br>
 </div>
 
-###
+### 
 
-<h3 
+<h2 
 style="font-size: 24px; font-weight: bold" align="center">
 👋 Hi, I'm Md Sohail Fiza
-</h3>
+</h2>
 
-<h3 align="left">A passionate Full Stack developer and Computer Science enthusiast from Bihar, India</h3>
-<h2></h2>
+### I am a passionate Full Stack developer and Computer Science enthusiast from Bihar, India
 
-###
+
+##
 
 <div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px"></div>
 <br>
