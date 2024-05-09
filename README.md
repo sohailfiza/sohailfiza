@@ -24,7 +24,7 @@ style="font-size: 24px; font-weight: bold" align="center">
 
 - 📫 Reach me at **mailsohailfiza@gmail.com**
 
-- <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/leetcode-icon.png" width="18" height="18" style="background: white; border-radius: 5px; pointer-events: none;"> My Leetcode [profile](https://leetcode.com/u/sohailfiza/)
+<!-- - <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/leetcode-icon.png" width="18" height="18" style="background: white; border-radius: 5px; pointer-events: none;"> My Leetcode [profile](https://leetcode.com/u/sohailfiza/) -->
 
 - 📄 My [resume](https://drive.google.com/file/d/1N52d1X51PFAWcxbwdcm4mATx0Sh20JH7/view?usp=sharing)
 
@@ -102,8 +102,8 @@ style="font-size: 24px; font-weight: bold" align="center">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sohailfiza&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sohailfiza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohailfiza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sohailfiza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohailfiza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohailfiza&radius=16&theme=react&area=true&order=5&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
 
