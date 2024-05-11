@@ -5,10 +5,11 @@
 
 ### 
 
-<h2 
-style="font-size: 24px; font-weight: bold" align="center">
-👋 Hi, I'm Md Sohail Fiza
-</h2>
+<h1 
+style="" align="center">
+Hello there! 👋 I'm Sohail
+</h1>
+<!-- # Hello there! 👋 I'm Md Sohail Fiza -->
 
 ### I am a passionate Full Stack developer and Computer Science enthusiast from Bihar, India
 
