@@ -5,7 +5,6 @@
 
 ### 
 
-<br>
 <h2 
 style="font-size: 24px; font-weight: bold" align="center">
 👋 Hi, I'm Md Sohail Fiza
