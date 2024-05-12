@@ -16,8 +16,6 @@ style="" align="center">
 A passionate developer from India
 </h2>
 
-##
-
 <div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px"></div>
 <br>
 
