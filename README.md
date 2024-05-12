@@ -11,7 +11,10 @@ Hello there! 👋 I'm Sohail
 </h1>
 <!-- # Hello there! 👋 I'm Md Sohail Fiza -->
 
-### A passionate developer from India
+<h2 
+style="" align="center">
+A passionate developer from India
+</h2>
 
 ##
 
