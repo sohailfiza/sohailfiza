@@ -11,7 +11,7 @@ Hello there! 👋 I'm Sohail
 </h1>
 <!-- # Hello there! 👋 I'm Md Sohail Fiza -->
 
-### I am a passionate Full Stack developer and Computer Science enthusiast from Bihar, India
+### A passionate developer from India
 
 ##
 
