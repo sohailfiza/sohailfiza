@@ -9,7 +9,6 @@
 style="" align="center">
 Hello there! 👋 I'm Sohail
 </h1>
-<!-- # Hello there! 👋 I'm Md Sohail Fiza -->
 
 <h2 
 style="" align="center">
