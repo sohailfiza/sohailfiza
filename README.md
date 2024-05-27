@@ -18,7 +18,7 @@ A passionate developer from India
 <div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px"></div>
 <br>
 
-- 🌱 I’m currently learning **DSA, Computer Networking, AWS**
+- 🌱 I’m currently learning **DSA, Computer Networking**
 
 <!-- - 👨‍💻 My projects are available at [Click](https://) -->
 
