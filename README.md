@@ -26,6 +26,7 @@ A passionate developer from India
 
 <!-- - <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/leetcode-icon.png" width="18" height="18" style="background: white; border-radius: 5px; pointer-events: none;"> My Leetcode [profile](https://leetcode.com/u/sohailfiza/) -->
 
+<!-- Resume -->
 - 📄 My [resume](https://drive.google.com/file/d/1N52d1X51PFAWcxbwdcm4mATx0Sh20JH7/view?usp=sharing)
 
 
@@ -74,18 +75,21 @@ A passionate developer from India
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
+
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  /> -->
 </div>
 
-##
+<!-- ## -->
 
-<h3 align="left">Connect with me:</h3>
+
+
+<!-- <h3 align="left">Connect with me:</h3>
 
 ###
 
 <p align="left">
 <a href="mailto:mailsohailfiza@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="mailsohailfiza@gmail.com" height="45" width="60" /></a>
-<a href="https://linkedin.com/in/sohailfiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="sohailfiza" height="45" width="60" /></a>
+<a href="https://linkedin.com/in/sohailfiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="sohailfiza" height="45" width="60" /></a> -->
 <!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="sohailfiza" height="45" width="60" /></a> -->
 <!-- <a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="sohailfiza" height="45" width="60" /></a> -->
 <!-- <a href="https://www.leetcode.com/sohailfiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohailfiza" height="45" width="60" /></a> -->
@@ -103,8 +107,9 @@ A passionate developer from India
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sohailfiza&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=sohailfiza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohailfiza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohailfiza&radius=16&theme=react&area=true&order=5&hide_title=true" height="150" alt="activity-graph graph"  />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohailfiza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+    
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohailfiza&radius=16&theme=react&area=true&order=5&hide_title=true" height="150" alt="activity-graph graph"  /> -->
 </div>
 
 ###
