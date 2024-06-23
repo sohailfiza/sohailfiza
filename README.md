@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/tCQGs93k/github-banner-1.png"  />
+  <img height="160" src="https://i.postimg.cc/tCQGs93k/github-banner-1.png" />
   <br>
 </div>
 
@@ -15,20 +15,32 @@ style="" align="center">
 A passionate developer from India
 </h2>
 
-<div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px"></div>
-<br>
+<div align="left" style="position: relative;">
+  <div id="image-container">
+    <img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="200" width="200" style="border-radius: 5px; position: absolute; right: 50px;" loading="lazy">
+  </div>
 
-- 🌱 I’m currently learning **DSA, Computer Networking**
-
-<!-- - 👨‍💻 My projects are available at [Click](https://) -->
-
-- 📫 Reach me at **mailsohailfiza@gmail.com**
-
-<!-- - <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/leetcode-icon.png" width="18" height="18" style="background: white; border-radius: 5px; pointer-events: none;"> My Leetcode [profile](https://leetcode.com/u/sohailfiza/) -->
-
-<!-- Resume -->
-- 📄 My [resume](https://drive.google.com/file/d/1N52d1X51PFAWcxbwdcm4mATx0Sh20JH7/view?usp=sharing)
-
+  <p>
+    <br class="h-height-1">
+    <br class="h-height-1">
+    <br class="h-height-1">
+    &#9679; 🌱 I’m currently <span style="font-weight: bold">learning DSA, Computer Networking </span>
+    <br>
+    &#9679; 📫 Reach me at 
+    <a style="font-weight: bold" href="mailto:mailsohailfiza@gmail.com?
+                 cc=mailsohailfiza@gmail.com&
+                 bcc=mailsohail101@gmail.com
+                 &subject=Reaching via GitHub
+                 &body=">mailsohailfiza@gmail.com</a>
+    <br>
+    &#9679; 📄 My <a style="font-weight: bold" href="https://drive.google.com/file/d/1N52d1X51PFAWcxbwdcm4mATx0Sh20JH7/view?usp=sharing" >Resume</a>
+    <span class="h-height-1">
+    <br>
+    <br>
+    <br>
+    <span>
+  </p>
+</div>
 
 ##
 
@@ -109,7 +121,7 @@ A passionate developer from India
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=sohailfiza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohailfiza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
     
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohailfiza&radius=16&theme=react&area=true&order=5&hide_title=true" height="150" alt="activity-graph graph"  /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohailfiza&radius=16&theme=react&area=true&order=5&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -117,3 +129,24 @@ A passionate developer from India
 <br clear="both">
 
 <!-- updated random comment from GitHub Android App-->
+
+
+<style>
+  @media (max-width: 768px) {
+    #image-container {
+      position: relative;
+      text-align: center;
+      right: 0;
+    }
+    #image-container img {
+      position: static;
+    }
+    .h-height-1{
+      display: none;
+    }
+    p {
+      margin-top: 0px;
+      
+    }
+  }
+</style>
