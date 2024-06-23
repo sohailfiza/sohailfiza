@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://i.postimg.cc/tCQGs93k/github-banner-1.png"  />
+  <img height="160" src="https://i.postimg.cc/tCQGs93k/github-banner-1.png" loading="lazy"/>
   <br>
 </div>
 
@@ -15,7 +15,7 @@ style="" align="center">
 A passionate developer from India
 </h2>
 
-<div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px"></div>
+<div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px" loading="lazy"></div>
 <br>
 
 <div>
