@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://i.postimg.cc/tCQGs93k/github-banner-1.png" />
+  <img height="160" src="https://i.postimg.cc/tCQGs93k/github-banner-1.png"  />
   <br>
 </div>
 
@@ -15,31 +15,18 @@ style="" align="center">
 A passionate developer from India
 </h2>
 
-<div align="left" style="position: relative;">
-  <div id="image-container">
-    <img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="200" width="200" style="border-radius: 5px; position: absolute; right: 50px;" loading="lazy">
-  </div>
+<div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px"></div>
+<br>
 
-  <p>
-    <br class="h-height-1">
-    <br class="h-height-1">
-    <br class="h-height-1">
-    &#9679; 🌱 I’m currently <span style="font-weight: bold">learning DSA, Computer Networking </span>
+<div>
+    &#9679; 🌱 I’m currently learning <span style="font-weight: bold">DSA, Computer Networking and ...</span>
     <br>
     &#9679; 📫 Reach me at 
     <a style="font-weight: bold" href="mailto:mailsohailfiza@gmail.com?
-                 cc=mailsohailfiza@gmail.com&
-                 bcc=mailsohail101@gmail.com
-                 &subject=Reaching via GitHub
+                 &subject=
                  &body=">mailsohailfiza@gmail.com</a>
     <br>
     &#9679; 📄 My <a style="font-weight: bold" href="https://drive.google.com/file/d/1N52d1X51PFAWcxbwdcm4mATx0Sh20JH7/view?usp=sharing" >Resume</a>
-    <span class="h-height-1">
-    <br>
-    <br>
-    <br>
-    <span>
-  </p>
 </div>
 
 ##
@@ -123,30 +110,3 @@ A passionate developer from India
     
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohailfiza&radius=16&theme=react&area=true&order=5&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<!-- updated random comment from GitHub Android App-->
-
-
-<style>
-  @media (max-width: 768px) {
-    #image-container {
-      position: relative;
-      text-align: center;
-      right: 0;
-    }
-    #image-container img {
-      position: static;
-    }
-    .h-height-1{
-      display: none;
-    }
-    p {
-      margin-top: 0px;
-      
-    }
-  }
-</style>
