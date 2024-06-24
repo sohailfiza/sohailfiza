@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://i.postimg.cc/tCQGs93k/github-banner-1.png" loading="lazy"/>
+  <img height="160" src="./images/github-banner-1.png" loading="lazy"/>
   <br>
 </div>
 
