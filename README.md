@@ -12,21 +12,21 @@ Hello there! 👋 I'm Sohail
 
 <h2 
 style="" align="center">
-A passionate developer from India
+A passionate developer
 </h2>
 
 <div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px" loading="lazy"></div>
 <br>
 
 <div>
-    &#9679; 🌱 I’m currently learning <span style="font-weight: bold">DSA, Computer Networking and ...</span>
+    &#9679; 🌱 I’m currently learning <span style="font-weight: bold"> Computer Networking </span>
     <br>
     &#9679; 📫 Reach me at 
     <a style="font-weight: bold" href="mailto:mailsohailfiza@gmail.com?
                  &subject=
                  &body=">mailsohailfiza@gmail.com</a>
     <br>
-    &#9679; 📄 My <a style="font-weight: bold" href="https://drive.google.com/file/d/1WtllqESMlmO42m-OdqmByQQxObe-YJQP/view?usp=sharing" >Resume</a>
+    &#9679; 📄 My <a style="font-weight: bold" href="https://drive.google.com/file/d/1uKDQNICQAHOrptAYyakQLvfV1EwOEEwY/view?usp=sharing" >Resume</a>
 </div>
 
 ##
