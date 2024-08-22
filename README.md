@@ -3,7 +3,7 @@
   <br>
 </div>
 
-### 
+###
 
 <h1 
 style="" align="center">
@@ -15,21 +15,19 @@ style="" align="center">
 A passionate developer
 </h2>
 
-<div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px" loading="lazy"></div>
-<br>
+<!-- <div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px" loading="lazy"></div>
+<br> -->
 
-<div>
+<!-- <div>
     &#9679; 🌱 I’m currently learning <span style="font-weight: bold"> Computer Networking </span>
     <br>
-    &#9679; 📫 Reach me at 
+    &#9679; 📫 Reach me at
     <a style="font-weight: bold" href="mailto:mailsohailfiza@gmail.com?
                  &subject=
                  &body=">mailsohailfiza@gmail.com</a>
     <br>
-    &#9679; 📄 My <a style="font-weight: bold" href="https://drive.google.com/file/d/1uKDQNICQAHOrptAYyakQLvfV1EwOEEwY/view?usp=sharing" >Resume</a>
-</div>
-
-##
+    &#9679; 📄 My <a style="font-weight: bold" href="" >Resume</a>
+</div> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -80,8 +78,6 @@ A passionate developer
 
 <!-- ## -->
 
-
-
 <!-- <h3 align="left">Connect with me:</h3>
 
 ###
@@ -93,7 +89,6 @@ A passionate developer
 <!-- <a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="sohailfiza" height="45" width="60" /></a> -->
 <!-- <a href="https://www.leetcode.com/sohailfiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohailfiza" height="45" width="60" /></a> -->
 </p>
-
 
 ##
 
