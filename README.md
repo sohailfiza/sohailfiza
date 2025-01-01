@@ -12,7 +12,7 @@ Hello there! 👋 I'm Sohail
 
 <h2 
 style="" align="center">
-A passionate developer
+A passionate software developer
 </h2>
 
 <!-- <div align="center" ><img src="https://i.postimg.cc/15S3x9nb/github-2.gif" height="250" width="300" style="border-radius: 5px" loading="lazy"></div>
